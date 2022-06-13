@@ -78,3 +78,13 @@
 - Deployment on `Netlify` is Mandatory.
 - Make sure you use masai github account provided by MasaiSchool(submit link to root folder of your repository on github).
 - Make Sure you have netify account, else you will be getting zero marks as netify takes down your app in few days if your account does not exist.
+
+<!-- git clone ...
+npm i / install
+JSON - json-server --watch db.json --port 8080
+npm i axios
+npm i redux
+npm i react-redux
+npm i react-router-dom
+npm start
+npm run build -->
