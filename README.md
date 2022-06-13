@@ -87,4 +87,16 @@ npm i redux
 npm i react-redux
 npm i react-router-dom
 npm start
-npm run build -->
+npm run build
+npm i redux-thunk -->
+
+git clone ...
+npm i / install
+JSON - json-server --watch db.json --port 8080
+npm i axios
+npm i redux
+npm i react-redux
+npm i react-router-dom
+npm start
+npm run build
+npm i redux-thunk
